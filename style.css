@@ -1,7 +1,9 @@
-#sofía {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+h1 {
+  color: red;
+  font-size: 90px
+  text-align: center
+  background-color: rgb(245, 238, 180)
+  text-shadow: 5px 5px rgb(219, 127, 143) (255, 0, 80)
 }
 
 #Backyardigans {
@@ -14,4 +16,10 @@
   display: block;
   margin-left: auto;
   margin-right: 0px;
+}
+
+#sofia1 {
+  display: block;
+  margin-left: 300px;
+  margin-right: auto;
 }
