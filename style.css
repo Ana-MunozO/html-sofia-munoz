@@ -1,25 +1,24 @@
 h1 {
-  color: red;
+  color:blueviolet;
+  background-color: pink;
   font-size: 90px
   text-align: center
-  background-color: rgb(245, 238, 180)
-  text-shadow: 5px 5px rgb(219, 127, 143) (255, 0, 80)
+  text-shadow: 5px 5px
 }
-
-#Backyardigans {
-  display: block;
-  margin-left: 0px;
-  margin-right: auto;
-}
-
-#Manny {
+#princesita {
   display: block;
   margin-left: auto;
-  margin-right: 0px;
-}
-
-#sofia1 {
-  display: block;
-  margin-left: 300px;
   margin-right: auto;
+}
+#backyardigans {
+  display: block;
+  margin-right: auto;
+}
+#manny {
+  display: block;
+  margin-left: auto;
+}
+p {
+  font-size: 50px
+  font-family: cursive;
 }
